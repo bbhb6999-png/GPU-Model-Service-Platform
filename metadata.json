@@ -1,0 +1,5 @@
+{
+  "name": "GPU Model Service Platform",
+  "description": "A professional B2B management backend for domestic GPU model services, featuring adaptation, prompt engineering, knowledge base, plugins, inference, and evaluation modules.",
+  "requestFramePermissions": []
+}
